@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "day-08-read-solana",
+=======
+  "name": "day-01",
+>>>>>>> cfbe2b5f49a7744f6e6ae4756a2b972719a8c611
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +13,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "type": "commonjs",
+=======
+>>>>>>> cfbe2b5f49a7744f6e6ae4756a2b972719a8c611
   "dependencies": {
     "@solana/kit": "^6.8.0"
   }
